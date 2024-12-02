@@ -51,12 +51,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&locale=en" alt="elfathin777" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfathin777&" alt="elfathin777" /></p>
+
 <br/><br/>
 
 <hr/>
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfathin777&" alt="elfathin777" /></p>
 
 <br/>
