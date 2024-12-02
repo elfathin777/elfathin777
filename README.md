@@ -43,14 +43,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elfathin777/elfathin777/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -64,5 +56,7 @@
 <hr/>
 
 <br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfathin777&" alt="elfathin777" /></p>
 
 <br/>
