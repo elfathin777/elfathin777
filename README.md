@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/haruna-elfathin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://elfathin777.github.io" target="_blank">
+  <a href="https://github.com/elfathin777/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -51,7 +51,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&locale=en" alt="elfathin777" /></p>
 
-<br/>
+<hr/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfathin777&" alt="elfathin777" /></p>
 
