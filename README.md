@@ -10,11 +10,13 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **JavaScript, Selenium, Jira**
+🌱 I’m currently learning **Automation Testing, Selenium with Python & JavaScript and API Testing** 
 
 💬 Ask me about **Python, Data Science, Software Quality Assurance... or anything [here](https://github.com/elfathin777/elfathin777/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+📫 How to reach me **harunaelfathin4@gmail.com**
+
+⚡ Fun fact **i think I'm in love with QA and Datas**
 
  </div>
  
