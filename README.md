@@ -47,7 +47,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfathin777&layout=compact&&langs_count=8"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&show_icons=true&locale=en&layout=compact" alt="elfathin777" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&locale=en" alt="elfathin777" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfathin777&" alt="elfathin777" /></p
 
