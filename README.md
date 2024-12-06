@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia 🇮🇩 </h3>
+<h3 align="center">A passionate software developer from Indonesia  </h3>
 
 <br/>
 
@@ -47,7 +47,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&show_icons=true&locale=en&layout=compact" alt="elfathin777" /></p>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfathin777&layout=compact&&langs_count=8"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&locale=en" alt="elfathin777" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfathin777&" alt="elfathin777" /></p
 
