@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia </h3>
+<h3 align="center">A passionate software developer from Indonesia 🇮🇩 </h3>
 
 <br/>
 
@@ -15,8 +15,6 @@
 💬 Ask me about **Python, Data Science, Software Quality Assurance... or anything [here](https://github.com/elfathin777/elfathin777/issues)**
 
 📫 How to reach me **harunaelfathin4@gmail.com**
-
-⚡ Fun fact **i think I'm in love with QA and Datas**
 
  </div>
  
