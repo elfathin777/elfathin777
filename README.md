@@ -1,53 +1,70 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elfathin777.elfathin777" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia  </h3>
+<h3 align="center">🚀 A Passionate Software Developer & QA Engineer from Indonesia<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg" width="30"/></h3>
 
-<br/>
+---
 
 <div align="center">
- 
-🌱 I’m currently learning **Automation Testing, Selenium with Python & JavaScript and API Testing** 
+  
+🌱 Currently exploring **Automation Testing, Selenium with Python & JS, and API Testing**  
+💡 Always learning about **Python, Data Science, and Software Quality Assurance**  
+📬 Reach me at **harunaelfathin4@gmail.com**  
 
-💬 Ask me about **Python, Data Science, Software Quality Assurance... or anything [here](https://github.com/elfathin777/elfathin777/issues)**
+💬 Ask me anything [here](https://github.com/elfathin777/elfathin777/issues) – I’d be happy to help!  
 
-📫 How to reach me **harunaelfathin4@gmail.com**
+</div>
 
- </div>
- 
+---
+
 <div align="center"> 
   <a href="mailto:harunaelfathin4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/haruna-elfathin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/elfathin777/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+## ⚒️ Tech Stack & Tools  
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mui,html,css,php,laravel,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,express,mongodb,c,java,mysql,python,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,katalon,cypress,selenium,jira" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,php,laravel,figma,vscode,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,mysql,python,flask,java,c,r" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,cypress,selenium" />
+    <img height="45" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" />
+    <img height="45" src="https://avatars.githubusercontent.com/u/31427888?s=200&v=4" alt="Katalon" />
+    <img height="45" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" />
 </div>
 
-<br/>
-<hr/>
+---
 
-<hr/>
+## 📊 GitHub Stats & Activity 🚀
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=elfathin777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&layout=compact&theme=tokyonight" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&show_icons=true&locale=en&layout=compact" alt="elfathin777" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&locale=en" alt="elfathin777" /></p>
+---
 
+## 🎯 Fun Fact  
 
+> “☕ Every great script starts with a cup of coffee”  
+
+✨ Thanks for visiting my profile – let’s connect and build something awesome together! ✨  
+
+---
+
+![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+
+---
