@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;" />
 </h1>
 
-<h3 align="center">🚀 A Passionate Software Developer & QA Engineer from Indonesia<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg" width="30"/></h3>
+<h3 align="center">🚀 A Passionate Software Developer & QA Engineer from Indonesia <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg" width="30"/></h3>
 
 ---
 
 <div align="center">
-  
-🌱 Currently exploring **Automation Testing, Selenium with Python & JS, and API Testing**  
-💡 Always learning about **Python, Data Science, and Software Quality Assurance**  
+
+💡 Always learning about **Software Quality Assurance** 
+🌱 Currently exploring **Automation Testing, Katalon with Java, Groovy and API Testing**   
 📬 Reach me at **harunaelfathin4@gmail.com**  
 
 💬 Ask me anything [here](https://github.com/elfathin777/elfathin777/issues) – I’d be happy to help!  
@@ -59,7 +59,7 @@
 
 ## 🎯 Fun Fact  
 
-> “☕ Every great script starts with a cup of coffee”  
+> “Want to motivate a tester? Just tell them there are no bugs left. They'll spend a week proving otherwise.”  
 
 ✨ Thanks for visiting my profile – let’s connect and build something awesome together! ✨  
 
