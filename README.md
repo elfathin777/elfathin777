@@ -1,19 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elfathin777.elfathin777" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;Thanks+for+visiting+my+profile!;" />
 </h1>
 
 <h3 align="center">🚀 A Passionate Software Developer & QA Engineer from Indonesia <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg" width="30"/></h3>
+
+---
+I am a **Quality Assurance & Automation Testing enthusiast** with hands-on experience in **web automation testing**.
+
+I enjoy building structured, maintainable automation tests and continuously improving my skills through real-world practice projects.
 
 ---
 
 <div align="center">
 
 💡 Always learning about **Software Quality Assurance** 
-🌱 Currently exploring **Automation Testing, Katalon with Java, Groovy and API Testing**   
-📬 Reach me at **harunaelfathin4@gmail.com**  
-
+🌱 Currently exploring **Automation Testing, Katalon with Java, Groovy and API Testing**  
 💬 Ask me anything [here](https://github.com/elfathin777/elfathin777/issues) – I’d be happy to help!  
 
 </div>
@@ -34,6 +37,40 @@
 
 ---
 
+## 🧪 Core Skills
+
+- Automation Testing (Web)
+- Data-Driven Testing (DDT)
+- Behavior-Driven Development (BDD) With Cucumber
+- Page Object Model (POM)
+- Test Case Design & Execution
+- Automation Framework Understanding
+- Bug Identification & Validation
+- Test Management Using Jira, Trello and Spreadsheet
+  
+---
+
+## 📂 Featured Projects
+
+- **Katalon Login Automation (DDT)**  
+  Data-driven automation testing for login scenarios using Katalon Studio.
+
+- **CURA Healthcare Automation**  
+  Automation testing for appointment flow with reusable test logic and keywords.
+
+> All projects are built as learning and portfolio work, following real-world automation practices.
+
+---
+
+## 🎯 Career Focus
+
+I am actively developing my skills toward a role in:
+- QA Engineer
+- Automation Tester
+- Project Manager
+
+---
+
 ## ⚒️ Tech Stack & Tools  
 
 <div align="center">
@@ -44,23 +81,6 @@
     <img height="45" src="https://avatars.githubusercontent.com/u/31427888?s=200&v=4" alt="Katalon" />
     <img height="45" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" />
 </div>
-
----
-
-## 📊 GitHub Stats & Activity 🚀
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elfathin777&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&layout=compact&theme=tokyonight" />
-</p>
-
 
 ---
 
