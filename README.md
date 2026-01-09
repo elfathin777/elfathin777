@@ -49,11 +49,18 @@
 
 ## 📊 GitHub Stats & Activity 🚀
 
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=elfathin777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elfathin777&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elfathin777&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elfathin777&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
