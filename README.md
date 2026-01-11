@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elfathin777.elfathin777" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;Thanks+for+visiting+my+profile!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;" />
 </h1>
 
 <h3 align="center">🚀 A Passionate Software Developer & QA Engineer from Indonesia <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg" width="30"/></h3>
