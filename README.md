@@ -7,7 +7,7 @@
 <h3 align="center">
 QA Engineer & Automation Testing Enthusiast  
 <br/>
-Indonesia 🇮🇩
+From Indonesia 🇮🇩
 </h3>
 
 ---
