@@ -1,23 +1,32 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elfathin777.elfathin777" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haruna+Elfathin!;+Welcome+to+my+GitHub!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%2C+I'm+Haruna+Elfathin+👋;QA+Engineer+%7C+Automation+Enthusiast;Welcome+to+my+GitHub+Profile" />
 </h1>
 
-<h3 align="center">🚀 A Passionate Software Developer & QA Engineer from Indonesia <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg" width="30"/></h3>
+<h3 align="center">
+QA Engineer & Automation Testing Enthusiast  
+<br/>
+Indonesia 🇮🇩
+</h3>
 
 ---
-I am a **Quality Assurance & Automation Testing enthusiast** with hands-on experience in **web automation testing**.
 
-I enjoy building structured, maintainable automation tests and continuously improving my skills through real-world practice projects.
+### 👋 About Me
+
+I am a **Quality Assurance Engineer** with a strong interest in **automation testing for web applications**.
+
+I focus on building **clear, maintainable, and scalable test automation**, starting from strong fundamentals and gradually evolving toward more advanced frameworks and patterns.
+
+This GitHub serves as a **hands-on portfolio**, reflecting how I learn, experiment, and apply QA best practices in real-world style projects.
 
 ---
 
 <div align="center">
 
-💡 Always learning about **Software Quality Assurance** 
-🌱 Currently exploring **Automation Testing, Katalon with Java, Groovy and API Testing**  
-💬 Ask me anything [here](https://github.com/elfathin777/elfathin777/issues) – I’d be happy to help!  
+🔍 Focused on **Software Quality & Test Reliability**  
+🌱 Currently working with **Playwright, Katalon (Java & Groovy), and API Testing**  
+💬 Questions or discussions are welcome via [GitHub Issues](https://github.com/elfathin777/elfathin777/issues)
 
 </div>
 
@@ -31,67 +40,69 @@ I enjoy building structured, maintainable automation tests and continuously impr
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/elfathin777/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+     <img src="https://img.shields.io/badge/GitHub_Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🧪 Core Skills
+## 🧪 Core QA & Automation Skills
 
-- Automation Testing (Web)
+- Web Automation Testing
 - Data-Driven Testing (DDT)
-- Behavior-Driven Development (BDD) With Cucumber
+- Behavior-Driven Development (BDD – Cucumber)
 - Page Object Model (POM)
 - Test Case Design & Execution
-- Automation Framework Understanding
-- Bug Identification & Validation
-- Test Management Using Jira, Trello and Spreadsheet
-  
+- Automation Framework Fundamentals
+- Bug Identification, Reproduction & Validation
+- Test Management (Jira, Trello, Spreadsheet-based tracking)
+
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Automation Projects
 
-- **Katalon Login Automation (DDT)**  
-  Data-driven automation testing for login scenarios using Katalon Studio.
+- **Katalon Login Automation (DDT) and Custom Keywords**  
+  Data-driven login automation showcasing reusable test logic and external test data.
 
 - **CURA Healthcare Automation**  
-  Automation testing for appointment flow with reusable test logic and keywords.
+  End-to-end appointment flow automation using reusable keywords and structured test cases.
 
-> All projects are built as learning and portfolio work, following real-world automation practices.
+- **Sauce Demo Automation**
+  
+
+> All projects are designed as **learning-driven but production-minded automation work**, following real QA practices.
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Direction
 
-I am actively developing my skills toward a role in:
+Actively preparing for roles such as:
 - QA Engineer
 - Automation Tester
+- Software Test Engineer
 - Project Manager
 
 ---
 
-## ⚒️ Tech Stack & Tools  
+## ⚒️ Tools & Technologies
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,php,laravel,figma,vscode,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,mysql,python,flask,java,c,r" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,cypress,selenium" />
-    <img height="45" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" />
-    <img height="45" src="https://avatars.githubusercontent.com/u/31427888?s=200&v=4" alt="Katalon" />
-    <img height="45" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,java,python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,cypress,playwright" />
+    <img height="42" src="https://avatars.githubusercontent.com/u/31427888?s=200&v=4" alt="Katalon" />
+    <img height="42" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" />
 </div>
 
 ---
 
-## 🎯 Fun Fact  
+## 💬 QA Thought
 
-> “Want to motivate a tester? Just tell them there are no bugs left. They'll spend a week proving otherwise.”  
+> “Good testing doesn’t just find bugs.  
+> It builds confidence in what *should* work.”
 
-✨ Thanks for visiting my profile – let’s connect and build something awesome together! ✨  
+Thanks for visiting.  
+Feel free to explore the repositories or reach out for collaboration or discussion.
 
 ---
 
 ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-
----
