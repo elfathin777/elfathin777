@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-QA Engineer & Automation Testing Enthusiast  
+QA Engineer & Project Management Enthusiast  
 <br/>
 From Indonesia 🇮🇩
 </h3>
